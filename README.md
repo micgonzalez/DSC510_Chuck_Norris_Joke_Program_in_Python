@@ -1,0 +1,2 @@
+# DSC510_Chuck_Norris_Joke_Program_in_Python
+Create a program which makes a GET request of the following API: Chuck Norris Jokes.(https://api.chucknorris.io/jokes/random) The program will receive a JSON response which includes various pieces of data. You should parse the JSON data to obtain the “value” key.  The data associated with the value key should be displayed for the user (i.e., the joke). Your program should allow the user to request a Chuck Norris joke as many times as they would like. You should make sure that your program does error checking at this point. 
